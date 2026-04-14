@@ -1,14 +1,14 @@
 <div align="center">
 
 # 🌌 ariesito
-**Independent Developer • Technical Modder • Explorer**
+**Independent Developer • Technical Modder • Linux Enthusiast**
 
 <img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/assets/pixel-art-skyline.gif" width="100%" style="border-radius: 10px; border: 1px solid #4a148c;" />
 
 ---
 
 ### 🚀 Perfil Técnico
-Soy un desarrollador autodidacta especializado en la arquitectura interna de entornos virtuales. Mi enfoque principal es la **optimización de rendimiento** y el desarrollo de herramientas de bajo nivel para **Minecraft Java & Bedrock**.
+Desarrollador autodidacta enfocado en la arquitectura interna de entornos virtuales. Mi trabajo se centra en la **optimización de rendimiento** y el desarrollo de herramientas técnicas para **Minecraft Java & Bedrock**.
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -21,24 +21,24 @@ Soy un desarrollador autodidacta especializado en la arquitectura interna de ent
 
 ---
 
-### 🛠️ Áreas de Especialización
+### 🛠️ Áreas de Desarrollo
 
-<table border="0">
+<table border="0" align="center">
   <tr>
     <td width="50%">
-      <h4>⚡ Engine & Performance</h4>
+      <h4>⚡ Optimización & Mods</h4>
       <ul>
-        <li>Desarrollo de motores de optimización de renderizado.</li>
-        <li>Manipulación avanzada de datos <b>NBT</b> y archivos técnicos.</li>
-        <li>Investigación de flujos de trabajo en <b>Linux Mint</b>.</li>
+        <li>Desarrollo de motores de rendimiento (Obsidian Engine).</li>
+        <li>Manipulación técnica de datos <b>NBT</b>.</li>
+        <li>Entornos de trabajo basados en <b>Linux Mint</b>.</li>
       </ul>
     </td>
     <td width="50%">
-      <h4>🧱 Game Development</h4>
+      <h4>🧱 Minecraft Technical</h4>
       <ul>
-        <li>Creación de plugins personalizados para servidores.</li>
-        <li>Technical Modding en Minecraft Java (Fabric/Spigot).</li>
-        <li>Desarrollo de prototipos funcionales y mini-proyectos.</li>
+        <li>Creación de plugins personalizados (Basics+).</li>
+        <li>Modding avanzado en Java Edition (Fabric).</li>
+        <li>Desarrollo de utilidades server-side.</li>
       </ul>
     </td>
   </tr>
@@ -46,23 +46,18 @@ Soy un desarrollador autodidacta especializado en la arquitectura interna de ent
 
 ---
 
-### 🧪 Filosofía de Desarrollo
+### 🧪 Filosofía
 > *"No busco solo que el código funcione, busco entender por qué funciona y cómo hacerlo más eficiente."*
-
-Mi proceso se basa en la **investigación profunda** y el desarrollo autodidacta. Desde la recuperación de hardware hasta la creación de software, cada proyecto es una oportunidad para explorar los límites del sistema.
 
 ---
 
 <div align="center">
 
-### ✨ Conéctate Conmigo
+### ✉️ Contacto
 <br/>
 
-<a href="https://github.com/ariesito">
-  <img src="https://img.shields.io/badge/PROYECTOS-%238A2BE2.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/PORTFOLIO-%234B0082.svg?style=for-the-badge&logo=codepen&logoColor=white" />
+<a href="mailto:ariesstudiosmc@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-ariesstudiosmc%40gmail.com-%238A2BE2.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
