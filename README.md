@@ -1,14 +1,14 @@
 <div align="center">
 
 # 🌌 ariesito
-**Independent Developer • Technical Modder • Linux Enthusiast**
+**Independent Software Developer • Technical Modder • Explorer**
 
 <img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/assets/pixel-art-skyline.gif" width="100%" style="border-radius: 10px; border: 1px solid #4a148c;" />
 
 ---
 
 ### 🚀 Perfil Técnico
-Desarrollador autodidacta enfocado en la arquitectura interna de entornos virtuales. Mi trabajo se centra en la **optimización de rendimiento** y el desarrollo de herramientas técnicas para **Minecraft Java & Bedrock**.
+Soy un desarrollador autodidacta apasionado por explorar el funcionamiento interno de los sistemas. Me especializo en el desarrollo técnico y la creación de soluciones personalizadas dentro de entornos de software independiente.
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -21,24 +21,24 @@ Desarrollador autodidacta enfocado en la arquitectura interna de entornos virtua
 
 ---
 
-### 🛠️ Áreas de Desarrollo
+### 🛠️ Áreas de Enfoque
 
 <table border="0" align="center">
   <tr>
     <td width="50%">
-      <h4>⚡ Optimización & Mods</h4>
+      <h4>⚡ Desarrollo & Investigación</h4>
       <ul>
-        <li>Desarrollo de motores de rendimiento (Obsidian Engine).</li>
-        <li>Manipulación técnica de datos <b>NBT</b>.</li>
-        <li>Entornos de trabajo basados en <b>Linux Mint</b>.</li>
+        <li>Creación de herramientas y utilidades de sistema.</li>
+        <li>Investigación y despliegue en entornos <b>Linux</b>.</li>
+        <li>Optimización de flujos de trabajo técnicos.</li>
       </ul>
     </td>
     <td width="50%">
-      <h4>🧱 Minecraft Technical</h4>
+      <h4>🧱 Minecraft Environment</h4>
       <ul>
-        <li>Creación de plugins personalizados (Basics+).</li>
-        <li>Modding avanzado en Java Edition (Fabric).</li>
-        <li>Desarrollo de utilidades server-side.</li>
+        <li>Desarrollo técnico para Java & Bedrock Edition.</li>
+        <li>Creación de mini-proyectos funcionales.</li>
+        <li>Exploración y desarrollo autodidacta constante.</li>
       </ul>
     </td>
   </tr>
