@@ -1,13 +1,13 @@
 <div align="center">
 
-# <span style="color: #8A2BE2;">🌌 ariesito</span>
+# <span style="color: #8A2BE2;">𝐀𝐫𝐢𝐞𝐬𝐢𝐭𝐨</span>
 **Independent Software Developer • Technical Modder • Explorer**
 
 <img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/assets/pixel-art-skyline.gif" width="100%" style="border-radius: 15px; border: 2px solid #4B0082; box-shadow: 0px 4px 15px rgba(138, 43, 226, 0.5);" />
 
 ---
 
-### 🚀 Perfil Técnico
+### Perfil Técnico
 <div style="background: #121212; border-left: 4px solid #8A2BE2; padding: 15px; border-radius: 8px; text-align: left;">
 Soy un desarrollador autodidacta apasionado por explorar el funcionamiento interno de los sistemas. Me especializo en el desarrollo técnico y la creación de soluciones personalizadas dentro de entornos de software independiente.
 </div>
@@ -16,7 +16,7 @@ Soy un desarrollador autodidacta apasionado por explorar el funcionamiento inter
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,json,linux,linuxmint,arch,bash,powershell,maven,git,vscode,netlify&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,linux,arch,bash,powershell,maven,git,vscode,netlify&theme=dark" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Soy un desarrollador autodidacta apasionado por explorar el funcionamiento inter
 
 ---
 
-### 🛠️ Áreas de Enfoque
+###  Áreas de Enfoque
 
 <table border="0" align="center" style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: transparent;">
@@ -40,7 +40,7 @@ Soy un desarrollador autodidacta apasionado por explorar el funcionamiento inter
     </td>
     <td width="50%" style="padding: 10px;">
       <div style="border: 1px solid #4B0082; border-radius: 10px; padding: 15px; height: 160px; background: linear-gradient(145deg, #0d0d0d, #1a1a1a);">
-        <h4 style="color: #8A2BE2; margin-top: 0;">🧱 Minecraft Environment</h4>
+        <h4 style="color: #8A2BE2; margin-top: 0;"> Minecraft Environment</h4>
         <ul style="font-size: 0.9em;">
           <li>Desarrollo técnico para Java & Bedrock Edition.</li>
           <li>Creación de mini-proyectos funcionales.</li>
