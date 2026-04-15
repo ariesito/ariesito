@@ -1,25 +1,22 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="45" height="45" style="vertical-align: middle;" /> <span style="color: #A855F7;">ariesito</span>
-**Independent Software Developer • Technical Modder • System Explorer**
+# <span style="color: #8A2BE2;">🌌 ariesito</span>
+**Independent Software Developer • Technical Modder • Explorer**
 
-<img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/assets/pixel-art-skyline.gif" width="100%" style="border-radius: 20px; border: 2px solid #6B21A8; box-shadow: 0px 0px 25px rgba(168, 85, 247, 0.6); margin-bottom: 20px;" />
+<img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/assets/pixel-art-skyline.gif" width="100%" style="border-radius: 15px; border: 2px solid #4B0082; box-shadow: 0px 4px 15px rgba(138, 43, 226, 0.5);" />
 
 ---
 
-### 🧬 Núcleo Tecnológico
-<div style="background: #0B0B0E; border-left: 5px solid #A855F7; padding: 20px; border-radius: 12px; text-align: left; margin: 15px 0; box-shadow: 0 8px 20px rgba(0,0,0,0.6);">
-<p style="margin: 0; font-size: 1.1em;">
-<b>Arquitecto de sistemas autodidacta.</b> Fusiono la lógica de <b>Java</b> con la fluidez de <b>JavaScript</b>, estructuro datos con <b>JSON</b>, automatizo tareas con <b>PowerShell</b> y despliego entornos vivos en <b>Arch</b> / <b>Linux Mint</b>. Actualmente expandiendo horizontes hacia la nube ligera con <b>Netlify</b>.
-</p>
+### 🚀 Perfil Técnico
+<div style="background: #121212; border-left: 4px solid #8A2BE2; padding: 15px; border-radius: 8px; text-align: left;">
+Soy un desarrollador autodidacta apasionado por explorar el funcionamiento interno de los sistemas. Me especializo en el desarrollo técnico y la creación de soluciones personalizadas dentro de entornos de software independiente.
 </div>
 
 <br/>
 
-<!-- Sección de Iconos Actualizada y Mejorada -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,json,linux,mint,arch,bash,powershell,maven,git,vscode,netlify&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,json,linux,linuxmint,arch,bash,powershell,maven,git,vscode,netlify&theme=dark" />
   </a>
 </p>
 
@@ -27,33 +24,27 @@
 
 ---
 
-### 🛠️ Áreas de Especialización
+### 🛠️ Áreas de Enfoque
 
-<table border="0" align="center" style="border-collapse: separate; border-spacing: 15px; width: 100%;">
+<table border="0" align="center" style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: transparent;">
-    <td width="50%" style="padding: 5px;">
-      <div style="border: 1px solid #6B21A8; border-radius: 16px; padding: 20px; height: 180px; background: #0D0D11; box-shadow: 0 10px 15px -5px rgba(168, 85, 247, 0.2);">
-        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
-          <span style="font-size: 28px;">⚡</span>
-          <h4 style="color: #C084FC; margin: 0; letter-spacing: 1px;">DEV & SYS RESEARCH</h4>
-        </div>
-        <ul style="font-size: 0.95em; list-style-type: '> '; color: #E2E8F0;">
-          <li style="margin-bottom: 8px;">Scripting avanzado en <b>Bash</b> y <b>PowerShell</b> para automatización.</li>
-          <li style="margin-bottom: 8px;">Customización profunda de entornos <b>Arch Linux</b> y <b>Mint</b>.</li>
-          <li style="margin-bottom: 8px;">Estructuración y validación de datos complejos con <b>JSON</b>.</li>
+    <td width="50%" style="padding: 10px;">
+      <div style="border: 1px solid #4B0082; border-radius: 10px; padding: 15px; height: 160px; background: linear-gradient(145deg, #0d0d0d, #1a1a1a);">
+        <h4 style="color: #8A2BE2; margin-top: 0;">⚡ Desarrollo & Investigación</h4>
+        <ul style="font-size: 0.9em;">
+          <li>Creación de herramientas y utilidades de sistema.</li>
+          <li>Investigación y despliegue en entornos <b>Linux</b>.</li>
+          <li>Optimización de flujos de trabajo técnicos.</li>
         </ul>
       </div>
     </td>
-    <td width="50%" style="padding: 5px;">
-      <div style="border: 1px solid #6B21A8; border-radius: 16px; padding: 20px; height: 180px; background: #0D0D11; box-shadow: 0 10px 15px -5px rgba(168, 85, 247, 0.2);">
-        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
-          <span style="font-size: 28px;">🧱</span>
-          <h4 style="color: #C084FC; margin: 0; letter-spacing: 1px;">MINECRAFT ECOSYSTEM</h4>
-        </div>
-        <ul style="font-size: 0.95em; list-style-type: '> '; color: #E2E8F0;">
-          <li style="margin-bottom: 8px;">Modding técnico para <b>Java Edition</b> (Forge/Fabric).</li>
-          <li style="margin-bottom: 8px;">Add-ons y comportamiento para <b>Bedrock Edition</b> (JSON UI/Molang).</li>
-          <li style="margin-bottom: 8px;">Despliegue de herramientas y documentación técnica.</li>
+    <td width="50%" style="padding: 10px;">
+      <div style="border: 1px solid #4B0082; border-radius: 10px; padding: 15px; height: 160px; background: linear-gradient(145deg, #0d0d0d, #1a1a1a);">
+        <h4 style="color: #8A2BE2; margin-top: 0;">🧱 Minecraft Environment</h4>
+        <ul style="font-size: 0.9em;">
+          <li>Desarrollo técnico para Java & Bedrock Edition.</li>
+          <li>Creación de mini-proyectos funcionales.</li>
+          <li>Exploración y desarrollo autodidacta constante.</li>
         </ul>
       </div>
     </td>
@@ -62,43 +53,25 @@
 
 ---
 
-### 🧪 Filosofía de Código
-<div align="center" style="margin: 30px 0;">
-  <div style="background: linear-gradient(90deg, transparent, #2E1065, transparent); padding: 2px; border-radius: 10px;">
-    <div style="background: #0B0B0E; padding: 20px 30px; border-radius: 10px;">
-      <i style="color: #D8B4FE; font-size: 1.2em; font-weight: 300; letter-spacing: 0.5px;">"No busco solo que el código funcione, busco entender por qué funciona y cómo hacerlo más eficiente."</i>
-      <br/>
-      <span style="color: #A855F7; margin-top: 10px; display: block; font-size: 0.9em;">— Ariesito</span>
-    </div>
-  </div>
+### 🧪 Filosofía
+<div align="center">
+<i style="color: #a29bfe; font-size: 1.1em;">"No busco solo que el código funcione, busco entender por qué funciona y cómo hacerlo más eficiente."</i>
 </div>
 
 ---
 
 <div align="center">
 
-### 📡 Establecer Conexión
+### ✉️ Contacto
 <br/>
 
 <a href="mailto:ariesstudiosmc@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ariesstudiosmc%40gmail.com-%238B5CF6.svg?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=1C1C1E" style="margin: 5px;" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1C1C1E" style="margin: 5px;" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/OS-Linux_Mint-87CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=white&labelColor=1C1C1E" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/EMAIL-ariesstudiosmc%40gmail.com-%238A2BE2.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
 <br/>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=ariesito&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/STATUS-EXPLORING_NEW_TECH-%23A855F7?style=flat-square" />
-</div>
-
-<br/>
-<img src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/assets/line-neon.gif" width="100%" height="2" />
+<img src="https://komarev.com/ghpvc/?username=ariesito&color=8a2be2&style=flat-square&label=PERFIL+VISTO" />
 
 </div>
