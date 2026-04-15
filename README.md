@@ -30,7 +30,7 @@ Soy un desarrollador autodidacta apasionado por explorar el funcionamiento inter
   <tr style="background-color: transparent;">
     <td width="50%" style="padding: 10px;">
       <div style="border: 1px solid #4B0082; border-radius: 10px; padding: 15px; height: 160px; background: linear-gradient(145deg, #0d0d0d, #1a1a1a);">
-        <h4 style="color: #8A2BE2; margin-top: 0;">⚡ Desarrollo & Investigación</h4>
+        <h4 style="color: #8A2BE2; margin-top: 0;"> Desarrollo & Investigación</h4>
         <ul style="font-size: 0.9em;">
           <li>Creación de herramientas y utilidades de sistema.</li>
           <li>Investigación y despliegue en entornos <b>Linux</b>.</li>
@@ -53,7 +53,7 @@ Soy un desarrollador autodidacta apasionado por explorar el funcionamiento inter
 
 ---
 
-### 🧪 Filosofía
+###  Filosofía
 <div align="center">
 <i style="color: #a29bfe; font-size: 1.1em;">"No busco solo que el código funcione, busco entender por qué funciona y cómo hacerlo más eficiente."</i>
 </div>
